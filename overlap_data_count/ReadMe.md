@@ -2,95 +2,96 @@
 
 ## 4310개 이미지에 겹치는 부분 있음  
 
+## 중복데이터 카운트 
 ILD + Nodule/Mass 77<hr>
-Lung Opacity + Nodule/Mass 565
-Consolidation + Nodule/Mass 133
-Calcification + Pleural thickening 190
-Calcification + Nodule/Mass 302
-Aortic enlargement + Calcification 168
-Calcification + Lung Opacity 42
-Calcification + Pleural effusion 30
-Nodule/Mass + Pleural effusion 218
-Lung Opacity + Pleural effusion 507
-Pleural effusion + Pleural thickening 1253
-ILD + Pleural effusion 69
-ILD + Lung Opacity 77
-ILD + Other lesion 92
-Aortic enlargement + ILD 139
-ILD + Pleural thickening 72
-Aortic enlargement + Nodule/Mass 437
-Nodule/Mass + Pleural thickening 184
-Cardiomegaly + Nodule/Mass 178
-Cardiomegaly + Pulmonary fibrosis 325
-Aortic enlargement + Cardiomegaly 5326
-Cardiomegaly + Infiltration 79
-Cardiomegaly + Other lesion 326
-Cardiomegaly + Lung Opacity 270
-Nodule/Mass + Pulmonary fibrosis 314
-Nodule/Mass + Other lesion 412
-Consolidation + ILD 13
-Infiltration + Pulmonary fibrosis 698
-Infiltration + Pleural thickening 127
-Infiltration + Nodule/Mass 76
-ILD + Infiltration 191
-Infiltration + Pleural effusion 145
-Other lesion + Pleural thickening 226
-Lung Opacity + Pleural thickening 416
-Aortic enlargement + Pleural thickening 663
-Consolidation + Pleural effusion 119
-Calcification + Consolidation 14
-Consolidation + Lung Opacity 244
-Consolidation + Pleural thickening 92
-Aortic enlargement + Consolidation 56
-Consolidation + Infiltration 111
-Consolidation + Pulmonary fibrosis 92
-Pleural thickening + Pulmonary fibrosis 847
-Calcification + Pulmonary fibrosis 327
-Atelectasis + Calcification 10
-Aortic enlargement + Pleural effusion 442
-Pleural effusion + Pulmonary fibrosis 392
-Cardiomegaly + Pleural effusion 224
-Calcification + Infiltration 17
-Aortic enlargement + Lung Opacity 342
-Aortic enlargement + Infiltration 137
-Aortic enlargement + Pulmonary fibrosis 631
-Atelectasis + Pulmonary fibrosis 212
-Atelectasis + Consolidation 26
-Atelectasis + Pleural effusion 55
-Atelectasis + Lung Opacity 62
-Atelectasis + Pleural thickening 107
-Atelectasis + Infiltration 22
-Aortic enlargement + Atelectasis 44
-Atelectasis + ILD 13
-Lung Opacity + Other lesion 298
-Calcification + Other lesion 136
-Other lesion + Pleural effusion 206
-Aortic enlargement + Other lesion 377
-Other lesion + Pulmonary fibrosis 412
-Lung Opacity + Pulmonary fibrosis 545
-Atelectasis + Other lesion 26
-Infiltration + Other lesion 75
-Infiltration + Lung Opacity 359
-Cardiomegaly + Consolidation 28
-Consolidation + Other lesion 38
-Cardiomegaly + Pleural thickening 383
-Other lesion + Pneumothorax 123
-Pleural effusion + Pneumothorax 64
-Pleural thickening + Pneumothorax 38
-Lung Opacity + Pneumothorax 29
-ILD + Pulmonary fibrosis 185
-Cardiomegaly + ILD 49
-Calcification + Cardiomegaly 62
-Pneumothorax + Pulmonary fibrosis 33
-Nodule/Mass + Pneumothorax 13
-Cardiomegaly + Pneumothorax 20
-Calcification + ILD 14
-Atelectasis + Nodule/Mass 13
-Atelectasis + Cardiomegaly 19
-Aortic enlargement + Pneumothorax 10
-Atelectasis + Pneumothorax 9
-Consolidation + Pneumothorax 6
-Infiltration + Pneumothorax 4
+Lung Opacity + Nodule/Mass 565<hr>
+Consolidation + Nodule/Mass 133<hr>
+Calcification + Pleural thickening 190<hr>
+Calcification + Nodule/Mass 302<hr>
+Aortic enlargement + Calcification 168<hr>
+Calcification + Lung Opacity 42<hr>
+Calcification + Pleural effusion 30<hr>
+Nodule/Mass + Pleural effusion 218<hr>
+Lung Opacity + Pleural effusion 507<hr>
+Pleural effusion + Pleural thickening 1253<hr>
+ILD + Pleural effusion 69<hr>
+ILD + Lung Opacity 77<hr>
+ILD + Other lesion 92<hr>
+Aortic enlargement + ILD 139<hr>
+ILD + Pleural thickening 72<hr>
+Aortic enlargement + Nodule/Mass 437<hr>
+Nodule/Mass + Pleural thickening 184<hr>
+Cardiomegaly + Nodule/Mass 178<hr>
+Cardiomegaly + Pulmonary fibrosis 325<hr>
+Aortic enlargement + Cardiomegaly 5326<hr>
+Cardiomegaly + Infiltration 79<hr>
+Cardiomegaly + Other lesion 326<hr>
+Cardiomegaly + Lung Opacity 270<hr>
+Nodule/Mass + Pulmonary fibrosis 314<hr>
+Nodule/Mass + Other lesion 412<hr>
+Consolidation + ILD 13<hr>
+Infiltration + Pulmonary fibrosis 698<hr>
+Infiltration + Pleural thickening 127<hr>
+Infiltration + Nodule/Mass 76<hr>
+ILD + Infiltration 191<hr>
+Infiltration + Pleural effusion 145<hr>
+Other lesion + Pleural thickening 226<hr>
+Lung Opacity + Pleural thickening 416<hr>
+Aortic enlargement + Pleural thickening 663<hr>
+Consolidation + Pleural effusion 119<hr>
+Calcification + Consolidation 14<hr>
+Consolidation + Lung Opacity 244<hr>
+Consolidation + Pleural thickening 92<hr>
+Aortic enlargement + Consolidation 56<hr>
+Consolidation + Infiltration 111<hr>
+Consolidation + Pulmonary fibrosis 92<hr>
+Pleural thickening + Pulmonary fibrosis 847<hr>
+Calcification + Pulmonary fibrosis 327<hr>
+Atelectasis + Calcification 10<hr>
+Aortic enlargement + Pleural effusion 442<hr>
+Pleural effusion + Pulmonary fibrosis 392<hr>
+Cardiomegaly + Pleural effusion 224<hr>
+Calcification + Infiltration 17<hr>
+Aortic enlargement + Lung Opacity 342<hr>
+Aortic enlargement + Infiltration 137<hr>
+Aortic enlargement + Pulmonary fibrosis 631<hr>
+Atelectasis + Pulmonary fibrosis 212<hr>
+Atelectasis + Consolidation 26<hr>
+Atelectasis + Pleural effusion 55<hr>
+Atelectasis + Lung Opacity 62<hr>
+Atelectasis + Pleural thickening 107<hr>
+Atelectasis + Infiltration 22<hr>
+Aortic enlargement + Atelectasis 44<hr>
+Atelectasis + ILD 13<hr>
+Lung Opacity + Other lesion 298<hr>
+Calcification + Other lesion 136<hr>
+Other lesion + Pleural effusion 206<hr>
+Aortic enlargement + Other lesion 377<hr>
+Other lesion + Pulmonary fibrosis 412<hr>
+Lung Opacity + Pulmonary fibrosis 545<hr>
+Atelectasis + Other lesion 26<hr>
+Infiltration + Other lesion 75<hr>
+Infiltration + Lung Opacity 359<hr>
+Cardiomegaly + Consolidation 28<hr>
+Consolidation + Other lesion 38<hr>
+Cardiomegaly + Pleural thickening 383<hr>
+Other lesion + Pneumothorax 123<hr>
+Pleural effusion + Pneumothorax 64<hr>
+Pleural thickening + Pneumothorax 38<hr>
+Lung Opacity + Pneumothorax 29<hr>
+ILD + Pulmonary fibrosis 185<hr>
+Cardiomegaly + ILD 49<hr>
+Calcification + Cardiomegaly 62<hr>
+Pneumothorax + Pulmonary fibrosis 33<hr>
+Nodule/Mass + Pneumothorax 13<hr>
+Cardiomegaly + Pneumothorax 20<hr>
+Calcification + ILD 14<hr>
+Atelectasis + Nodule/Mass 13<hr>
+Atelectasis + Cardiomegaly 19<hr>
+Aortic enlargement + Pneumothorax 10<hr>
+Atelectasis + Pneumothorax 9<hr>
+Consolidation + Pneumothorax 6<hr>
+Infiltration + Pneumothorax 4<hr>
   
 ## Example
 ![1212](https://user-images.githubusercontent.com/73815944/107901581-5b6bed80-6f87-11eb-94d2-d345a41bedf8.PNG)
