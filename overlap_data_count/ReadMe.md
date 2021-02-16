@@ -1,8 +1,8 @@
-## iou가 0.5 이상인 경우 
+## iou가 0.4 이상인 경우 
 
-## 4310개 이미지에 겹치는 부분 있음  
+### 4352개 이미지에 겹치는 부분 발견  
 
-## 중복데이터 카운트 
+### 중복데이터 카운트 
 ILD + Nodule/Mass 77<hr>
 Lung Opacity + Nodule/Mass 565<hr>
 Consolidation + Nodule/Mass 133<hr>
