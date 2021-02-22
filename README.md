@@ -1,8 +1,8 @@
 # Kaggle X-Ray project
 
-####[중요] trello : https://trello.com/b/bUIob804/kaggle  
+### [중요] trello : https://trello.com/b/bUIob804/kaggle  
     
-Kaggle X-ray 이상징후 분석 프로젝트(VinBigData Chest X-ray Abnormalities Detection)   
+#### Kaggle X-ray 이상징후 분석 프로젝트(VinBigData Chest X-ray Abnormalities Detection)   
        url : https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection   
        발표 총 3번: 16, 19, 26일   
        참가 인원 : 5인 - 손원용, 오상수, 김기영, 권형주, 이준호   
