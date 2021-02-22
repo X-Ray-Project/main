@@ -1,6 +1,6 @@
 # Kaggle X-Ray project
 
-### [중요] trello : https://trello.com/b/bUIob804/kaggle  
+### [일정 및 상황] trello : https://trello.com/b/bUIob804/kaggle  
     
 #### Kaggle X-ray 이상징후 분석 프로젝트(VinBigData Chest X-ray Abnormalities Detection)   
        url : https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection   
