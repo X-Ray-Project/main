@@ -31,6 +31,8 @@
     + Yolo5 + 2-class Efficientnet
     + 최고치 0.185
 
+
+
 + 진행한 Yolo parameter
     + 이미지 / 전처리 / train / detect / result
     + 1024x1024 / train 80% val 20% / --img 832 --batch 16 --epochs 30 / --img 640 --conf 0.15 --iou 0.5 / 0.024
@@ -43,3 +45,9 @@
     + 1024x1024 / train 80% val 20% / --img 1024 --batch 16 --epochs 50 / --img 1024 --conf 0.2 --iou 0.5 / 0.133
     + 1024x1024 / train 80% val 20% / --img 1024 --batch 16 --epochs 50 / --img 1024 --conf 0.1 --iou 0.5 / 0.133
     + 1024x1024 / train 80% val 20% / --img 1024 --batch 16 --epochs 50 / --img 1024 --conf 0.15 --iou 0.7 / 0.137
+
+### 2_class Efficientnet 
+
++ classes-2.ipynb
+    + Efficientnet
+    + Accuracy : 0.9
