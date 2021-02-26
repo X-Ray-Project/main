@@ -46,7 +46,7 @@ tf.record : 클라우드 스토리지에 넣으면 유연하게 처리 가능할
 zip > 로컬에 다시 풀면 300GB 넘음 (여유있게 350GB 필요) → 이에 대한 고민이 필요함.   
 
 #### 26일 중간 결과
-+ PPTX
++ PPTX (나눔스퀘어, Noto Sans)
 [PPT최종_210226.pptx](https://github.com/X-Ray-Project/main/files/6047455/PPT._210226.pptx)
 + PDF
 [PPT최종_210226.pdf](https://github.com/X-Ray-Project/main/files/6047463/PPT._210226.pdf)
